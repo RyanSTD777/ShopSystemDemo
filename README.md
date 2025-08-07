@@ -1,7 +1,7 @@
 
 
 系統管理員:
-<br>
+<br><br>
 帳號:Admin
 <br>
 密碼:Admin
@@ -9,9 +9,9 @@
 帳號:admin
 <br>
 密碼:admin
-<br>
+<br><br>
 使用者帳號:(可自行註冊)
-<br>
+<br><br>
 帳號:jay
 <br>
 密碼:777
